@@ -1,6 +1,3 @@
-# Bounded-Ink
-
-
 # Bounded Ink
 
 ## A procedural geometric codec for manga pages
